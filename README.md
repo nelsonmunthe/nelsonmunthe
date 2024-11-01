@@ -3,7 +3,9 @@
 - 😎 Javascript /  Typescript enthusiast!
 - 😎 Fullstack developer (react.js, express.js, go-language) 
 - 😎 Self taught programmer.
-- 😎 Go languange programmer
+
+## Languages & Tools :
+![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
 
 <!--
 **nelsonmunthe/nelsonmunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
