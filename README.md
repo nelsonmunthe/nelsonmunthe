@@ -6,6 +6,9 @@
 
 ## Languages & Tools :
 ![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
+![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
+![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
+![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
 
 <!--
 **nelsonmunthe/nelsonmunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
