@@ -5,7 +5,7 @@
 - 😎 Self taught programmer.
 
 ## Languages & Tools :
-![javascript-colored](https://github.com/user-attachments/assets/af8b5306-dd6b-46e0-85ac-39e84086ded6)
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="128"/>
 
 
 <!--
