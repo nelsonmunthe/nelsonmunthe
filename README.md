@@ -1,4 +1,9 @@
-## Hi there 👋 I'm vSky
+## Hi there 👋 I'm Nelson Munthe
+
+😎 Javascript /  Typescript enthusiast!
+😎 Fullstack developer (react.js, express.js, go-language)
+😎 Self taught programmer.
+😎 Go languange programmer
 
 <!--
 **nelsonmunthe/nelsonmunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
