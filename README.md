@@ -15,8 +15,6 @@
   <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/golang/live/logo-1720462202904.png" width="70"/>
 </div>
 
-## Social Media :
-
 
 <!--
 **nelsonmunthe/nelsonmunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
