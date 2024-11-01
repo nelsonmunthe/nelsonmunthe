@@ -5,10 +5,8 @@
 - 😎 Self taught programmer.
 
 ## Languages & Tools :
-![Alt text](relative%20https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg?raw=true "Title")
-![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
-![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
-![alt text](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)
+![javascript-colored](https://github.com/user-attachments/assets/af8b5306-dd6b-46e0-85ac-39e84086ded6)
+
 
 <!--
 **nelsonmunthe/nelsonmunthe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
